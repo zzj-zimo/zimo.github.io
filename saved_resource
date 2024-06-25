@@ -1,0 +1,44 @@
+/* This CSS resource incorporates links to font software which is the
+   valuable copyrighted property of Type Network, Inc. and/or their
+   suppliers. You may not attempt to copy, install, redistribute,
+   convert, modify or reverse engineer this font software. Please
+   contact Type Network with any questions: www.typenetwork.com */
+
+  
+@font-face {
+font-family: "Benton Sans Med";
+font-weight: normal; 
+font-style: normal; 
+font-display: swap; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/4524/862_vdef_emp_57e1.woff2?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/4524/862_vdef_emp_57e1.woff?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff");
+
+}
+		
+	 
+@font-face {
+font-family: "Benton Sans Bk";
+font-weight: normal; 
+font-style: normal; 
+font-display: swap; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/4524/85e_vdef_emp_57e0.woff2?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/4524/85e_vdef_emp_57e0.woff?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff");
+
+}
+		
+	 
+@font-face {
+font-family: "Benton Sans Reg";
+font-weight: normal; 
+font-style: normal; 
+font-display: swap; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/4524/860_vdef_emp_57df.woff2?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/4524/860_vdef_emp_57df.woff?45b336cdacfde1129a9f9bc2b2ab0648c88e5aab") format("woff");
+
+}
